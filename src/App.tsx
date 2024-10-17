@@ -79,7 +79,7 @@ function App() {
             <Loader size="large" />
             <Placeholder size="large" />
             <Placeholder size="large" />
-            <Placeholder size="large" />
+            <Placeholder size="large" /> 
           </div>
         ) : (
           result && <p className="result">{result}</p>
